@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an of shoot of repository where changes can be madewithout affecting the master branch. This means multiple users can work on sections of code snd submit it without affecting the main code before someone has checked it.
